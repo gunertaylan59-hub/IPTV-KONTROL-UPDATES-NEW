@@ -1,13 +1,13 @@
 {
   "program": "IPTVKontrolMerkezi",
-  "version": "0.13.4",
-  "build": "20260722.2223",
+  "version": "0.13.5",
+  "build": "20260722.2251",
   "release_date": "2026-07-23",
   "mandatory": false,
-  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.4/IPTVKontrolMerkezi-0.13.4-win-x64.zip",
-  "package_size": 226410952,
-  "sha256": "773ab9b3148d20cca48a616496f06aaa2e56a7885dbb6abe0ea621a144b6e793",
-  "signature": "DCZE2cepSoD5\u002Bv6ivxUIAjnuS8AE8hID2AskVNe9CNzsWEKAz2fM1YRHe6Qj7CjKxZYfjYtDnbwpT6UVvdEHBhneIRxadSW1W0bL0O3wTqguzbbAJBzedGmLkwrkuV1faUD79P3n6XrgATb8h8wjQvygV1OtKN/gpev1HsbHePO1D2QH3mUzke9XxNOZM8ESrnlXdqpt4mpKhPj05c9xdDvaYSdd6n\u002BPszEvQqqS4Mqr9rqD7ghVjclc4X9o\u002BEQ5FFNL8mW8J9iDH0BML3ebZOZBiPtw8j1VucSsTA272dEhyIQRCakAok8VHd801N8NSFNxKu9UmOeLfGLQeZ8m6lo/3rrWfdmOduM1OifRyVConytEI3QVgR/mFfkXWAqyecsJ\u002Bj4Rr3rPRiqph6Kn5fPMg2VM9m6LDU49pGfrCmMM6kgyTX3Qm9NDaJgkr4vVio4k/3DrwPKH6lBr69tmmfLylYzyQkhNbidMX56TUb7ftjPEfkExA\u002BKoSEzeuHGM",
+  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.5/IPTVKontrolMerkezi-0.13.5-win-x64.zip",
+  "package_size": 226384006,
+  "sha256": "b4f8232c7b937dff5de50607ca820363e719b9f34fc2e89a130aa93b1e76f005",
+  "signature": "KIX90qpXtAwVBBi5Mh0z3m4dMFYqHKrVS3Tybv3Sx/sUadrcoosSED1VkZwfy0Mbqm5CYmKs45WkQ74arbXNJElAODm32lH6dzLqfrKji286j/mzjwC6hjgNgQZHS3iMY4oH\u002BkIZwjgphX9yYwdsAORGgRkc7xuoi37aZn\u002BOY4aEy3IkHidB8VpxBRgeyxK3vj0OuridVprZP180LPKtcS0CfbSXzgYESP0kZGOQ6eEtgIFA5TI6tPliSD/zXK91SPCZ\u002BNA/srptcd/lQqPfYlRz1x4yEfPTShOhwfYO/txESzg6vCcq9pb6cuTZWvuEPWMVnO0CCJ95Ok0NnCtPPzr\u002BGIENh\u002BKzkhNGxh2wmkb3QuOBuHr\u002B\u002B0pp9pzfo9FVwssTioAMTmSocZk5AJ/5bUFkTX/unWVo23xJlLISfnvEf7iDXAoIlok7AEkynKIzNyRC2l2K4e1ZpPzGpDLr6416TVUuaefcBgWhizVXI9dUfG7BhkyhrzdRBU/ze2A/",
   "signature_algorithm": "RSA-SHA256-PKCS1",
   "notes": [
     "Kararl\u0131l\u0131k ve g\u00FCvenlik iyile\u015Ftirmeleri."
