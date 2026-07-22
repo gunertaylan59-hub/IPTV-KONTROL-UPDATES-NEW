@@ -1,17 +1,18 @@
 {
   "program": "IPTVKontrolMerkezi",
-  "version": "0.13.2",
-  "build": "20260722.132",
+  "version": "0.13.3",
+  "build": "20260722.2033",
   "release_date": "2026-07-22",
   "mandatory": false,
-  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.2/IPTVKontrolMerkezi-0.13.2-win-x64.zip",
-  "package_size": 142847022,
-  "sha256": "2e0093095eb35e57255d45308a6a62c939e780cb882a5d328658f835bdb496b9",
-  "signature": "HDLnH8sbauzaNkmNcCnT9szDuZXzacE3MJyzRjhqTuKHw32IPTi5TrAJj5BZa96Rj2G5Ed0h5HIGht5JcmXo3r/gBOe/KbuETJ\u002BPxbkIIdj1aC4GBWe\u002BCUMePc61wiY/8CJbTtbAEcSgYIZIjL51cADNJE9oARpbCfjfMPFMP1gtC0LC\u002BHggIk5pUh1e4TTbwzolAXECQ3mXhDRp5YqaF6LO0h7vYM/sTaAysZ\u002B3QFdNdJXfQ/UT3\u002B/jAdtXzEIALuFDfm8OFvWURPRF66TU5VyMKmukN0ekikcFtROp1\u002BNnC5xTr\u002BqpZBqMY1OK7WwULOolslaj0VXIxstFXcllDew/2w1oVGl/X\u002Bft98lD/Sb/uc09YBu9Ilm1g0O68sXQyeEVOOOKKAb58IATPTwdkXQ\u002BhvlMbz4hq2mapy16ZYHLuHUEIFRDIbwWpOzVD37Ine0BtOFrWfMIuCQSrcCV7Ax8jl9FQmjt4uATHlA\u002BVNt05zuqEXL/i/rs2hCqkJVN",
+  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.3/IPTVKontrolMerkezi-0.13.3-win-x64.zip",
+  "package_size": 143043466,
+  "sha256": "cd8ee6bc2b62628045335b06d73eee734c8799bfe5dea19fa507410a418ca076",
+  "signature": "vtOfh\u002Bzr7CAck2/OoqHvdSmLJdVuolZsPVu5KcSPp2q/zyWfQhFCVQc17VnuBX0DrLINUJxW3QYTnh9QuYINaoNWnREWQ5alHMUc6Q4MFbz26kkgFHseNjG0S2DoaL9htPOss7vP\u002Bdwhit3VwtyQ25OVLdRc8pGTVqD1wqWnP5bo1gxfDWcQ/MYiP8Q1clhxIrh\u002BQ5gik/xz/PKawCmQhTpTlLoMqkh5B03zM6oVReybMRK1n8tMYQnyEsdFDvP4xEH9G1JeQKpiFbAb1tUOe62ayHjr4fhzvlmlk/gBr/pB6zeGjfb5\u002Bd4fbKvTIiBEoJTI60/nkDBS574bPJvtd33hJMB\u002B8tcEZ1h59jUu6klt6roGHO9CgLKbdlXosnkcd9G52g1ctgH7JlAqRON0KrQcYsCPZ7ZTIjgrxcRdomfrO65FCSDG3IR5cecQYOCfKLGXpIJKV5Po0YAKtpTJPCqR5C4e6S2l81nW6jcXqkLZMjvVGsdv7scK2p5XemZx",
   "signature_algorithm": "RSA-SHA256-PKCS1",
   "notes": [
-    "Uzaktan g\u00FCncelleme sistemi ger\u00E7ek yay\u0131n testi.",
-    "S\u00FCr\u00FCm bilgisi v0.13.2 olarak g\u00FCncellendi.",
-    "Mevcut player, buffer, codec ve tam ekran \u00F6zellikleri korundu."
+    "Geli\u015Ftiriciye \u00F6zel g\u00FCvenli Yay\u0131n Merkezi",
+    "Bilgisayar kimli\u011Fi, developer.key ve PIN do\u011Frulamas\u0131",
+    "Tek d\u00FC\u011Fmeyle derleme, imzalama ve GitHub yay\u0131n\u0131",
+    "GitHub token Windows DPAPI ile \u015Fifreli saklama"
   ]
 }
