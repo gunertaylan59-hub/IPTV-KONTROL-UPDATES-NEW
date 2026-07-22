@@ -1,0 +1,17 @@
+{
+  "program": "IPTVKontrolMerkezi",
+  "version": "0.13.1",
+  "build": "20260722.2",
+  "release_date": "2026-07-22",
+  "mandatory": false,
+  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.1/IPTVKontrolMerkezi-0.13.1-win-x64.zip",
+  "package_size": 142846913,
+  "sha256": "56fa5fcbd64fe83b1b180e45f137ec611e6fe2ce9683dc320d796eb3f5f7592c",
+  "signature": "TuHXzxJabzqsKbo7PC39NcP2JPxZCifZh3wy7u0aqpfr79Pw/gWlbETEE76cHWuIrQ\u002BRM2C7LBzjiGi6WexPLCrkbM9OdB0REVrsBTH9WFelHpOZZ84ebR0jwphESIVGlZnSnvdN\u002BLvUaanaxcm1WZNmWH6buKgY8lbjjvWIBEdjueEWk82Rm2t/6\u002BBME2aV1y\u002B/Wvpri27rCHY0vGebeEXf8fTbiP7PAl8PG7gb6jn/JPFfkRXgqxxKqJRIxzm4VD3Fe7SPNBtq2MyIPrXPWieHk\u002BDdccLfGErGFfQ5axAOPR8UYMyO04wHyHwfa\u002Btv8AZVprk2h8M4wHdO8X17\u002B9/NAXntTjWHBjBeTskp\u002BbiXiKCX629m8wv9381e6ObA8EQIp1XHCyXUypQE\u002BeZtryWsoRrTsW9AyEDf5FR26KNZS0qVCV1rEUWbzhTmMHxZfgKYAfFwxE22Nzh0y2BR0UWZ57E3HIkBmwSl8QLq1TWDI3r6/eEAujsoLRRvxMYn",
+  "signature_algorithm": "RSA-SHA256-PKCS1",
+  "notes": [
+    "Yeni GitHub g\u00FCncelleme deposu ba\u011Flant\u0131s\u0131",
+    "SHA-256 ve RSA dijital imza do\u011Frulamas\u0131",
+    "Hata halinde otomatik yedekleme ve geri d\u00F6n\u00FC\u015F"
+  ]
+}
