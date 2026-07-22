@@ -1,17 +1,17 @@
 {
   "program": "IPTVKontrolMerkezi",
-  "version": "0.13.1",
-  "build": "20260722.2",
+  "version": "0.13.2",
+  "build": "20260722.132",
   "release_date": "2026-07-22",
   "mandatory": false,
-  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.1/IPTVKontrolMerkezi-0.13.1-win-x64.zip",
-  "package_size": 142846913,
-  "sha256": "56fa5fcbd64fe83b1b180e45f137ec611e6fe2ce9683dc320d796eb3f5f7592c",
-  "signature": "TuHXzxJabzqsKbo7PC39NcP2JPxZCifZh3wy7u0aqpfr79Pw/gWlbETEE76cHWuIrQ\u002BRM2C7LBzjiGi6WexPLCrkbM9OdB0REVrsBTH9WFelHpOZZ84ebR0jwphESIVGlZnSnvdN\u002BLvUaanaxcm1WZNmWH6buKgY8lbjjvWIBEdjueEWk82Rm2t/6\u002BBME2aV1y\u002B/Wvpri27rCHY0vGebeEXf8fTbiP7PAl8PG7gb6jn/JPFfkRXgqxxKqJRIxzm4VD3Fe7SPNBtq2MyIPrXPWieHk\u002BDdccLfGErGFfQ5axAOPR8UYMyO04wHyHwfa\u002Btv8AZVprk2h8M4wHdO8X17\u002B9/NAXntTjWHBjBeTskp\u002BbiXiKCX629m8wv9381e6ObA8EQIp1XHCyXUypQE\u002BeZtryWsoRrTsW9AyEDf5FR26KNZS0qVCV1rEUWbzhTmMHxZfgKYAfFwxE22Nzh0y2BR0UWZ57E3HIkBmwSl8QLq1TWDI3r6/eEAujsoLRRvxMYn",
+  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.2/IPTVKontrolMerkezi-0.13.2-win-x64.zip",
+  "package_size": 142847022,
+  "sha256": "2e0093095eb35e57255d45308a6a62c939e780cb882a5d328658f835bdb496b9",
+  "signature": "HDLnH8sbauzaNkmNcCnT9szDuZXzacE3MJyzRjhqTuKHw32IPTi5TrAJj5BZa96Rj2G5Ed0h5HIGht5JcmXo3r/gBOe/KbuETJ\u002BPxbkIIdj1aC4GBWe\u002BCUMePc61wiY/8CJbTtbAEcSgYIZIjL51cADNJE9oARpbCfjfMPFMP1gtC0LC\u002BHggIk5pUh1e4TTbwzolAXECQ3mXhDRp5YqaF6LO0h7vYM/sTaAysZ\u002B3QFdNdJXfQ/UT3\u002B/jAdtXzEIALuFDfm8OFvWURPRF66TU5VyMKmukN0ekikcFtROp1\u002BNnC5xTr\u002BqpZBqMY1OK7WwULOolslaj0VXIxstFXcllDew/2w1oVGl/X\u002Bft98lD/Sb/uc09YBu9Ilm1g0O68sXQyeEVOOOKKAb58IATPTwdkXQ\u002BhvlMbz4hq2mapy16ZYHLuHUEIFRDIbwWpOzVD37Ine0BtOFrWfMIuCQSrcCV7Ax8jl9FQmjt4uATHlA\u002BVNt05zuqEXL/i/rs2hCqkJVN",
   "signature_algorithm": "RSA-SHA256-PKCS1",
   "notes": [
-    "Yeni GitHub g\u00FCncelleme deposu ba\u011Flant\u0131s\u0131",
-    "SHA-256 ve RSA dijital imza do\u011Frulamas\u0131",
-    "Hata halinde otomatik yedekleme ve geri d\u00F6n\u00FC\u015F"
+    "Uzaktan g\u00FCncelleme sistemi ger\u00E7ek yay\u0131n testi.",
+    "S\u00FCr\u00FCm bilgisi v0.13.2 olarak g\u00FCncellendi.",
+    "Mevcut player, buffer, codec ve tam ekran \u00F6zellikleri korundu."
   ]
 }
