@@ -1,15 +1,15 @@
 {
   "program": "IPTVKontrolMerkezi",
-  "version": "0.13.9",
-  "build": "20260723.1852",
+  "version": "0.14.0",
+  "build": "20260723.1940",
   "release_date": "2026-07-23",
   "mandatory": false,
-  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.9/IPTVKontrolMerkezi-0.13.9-win-x64.zip",
-  "package_size": 189340932,
-  "sha256": "17eb7b635ae7c87a539bb6e612bdaa2ce1f15701e45074087dc3481f3f7bc793",
-  "signature": "Qruee37pkoUCFHrudy/YlQwwjZulYr0n0Qw/AmC7HJ14NPfCvgavlA0e6oz64yEa83lCGVJN\u002BQAU5uU731g\u002BMt8p\u002B8zFUsZEmUGDKkn9eQGyp\u002BiJCsncxJQWgpmubbt5qk2S1gIZO4qI9IBok//cRUeRGY1GgeKeT9lBY6Gnm1q05Gg9z4gSx7xvw9tT\u002Bpfg5yWICASjU2eGJJhltHmJiQZP7akYlUUD7Ao7QGA57N24YHhJeAvFTVJHJQ0gL56bg2EyH3wzAOIrUubT5ice6dyV6zaTsXzH/gbRxlbwYE/LaSaZP54F4Zxj87fBAvFmMGE/2M6xxn27m0qDwRpqoXFF93NfLJbx/zUgLwyT7XujtP1R28NORmAKCIVqxJdwhYKUpHQBIF9FPZFY0d71CZCDFDcPBPSUlGnKSSe0ugYivP8nPD\u002BxabWpyqoh9l8BoDWQ3vDnLR\u002BW4eJgR/cjwcXvej218VZSSJgNvxJlTdf9iJEi5mijqgrSxPCedbOe",
+  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.14.0/IPTVKontrolMerkezi-0.14.0-win-x64.zip",
+  "package_size": 189347511,
+  "sha256": "86ab8a3d8e77cce58312bfc29a86655ba6d8a5f1f7b9ba361597aacd41b8bb43",
+  "signature": "IMDgQ5UENvuVmQ\u002B1VxyS\u002B8uCzkBpbupq0IQjUo1Jial\u002BdAH11xFjg3Z0/U/D7yO8R\u002BnG5\u002BhcxNczdCdAFxD7C0n280Cn78ihLdW8QPlwVNt707BlrrBSmNiwz9QQZyfvKt0QaXrACeBnh7d/CZSBZ7zUF1uARbZQ0ZbzxZJGVEGxDXat7LUwq1DWLDCsq8XX7NGJb5RkwHpoXUGLhXLxnzuROgi9H9STlIk3QGdAORo6JOK8a2X5tBxJBl9qyhelbHggMvPoQUXgaSFMhc99NxCb3tI7D50RzRDJ\u002BIyS08hzzZPQVxlGbgYKhAHVmCDGLWifB1NaF/4d0w0ks\u002BBFB\u002BUoAhLPnKqlFQk9LILEzlWqV9zjLv/RN2l\u002BiuMnPCVr4lcdkFG6eWxpSyrz\u002Byb3imG/H89\u002B0AUlMTVjc6W78tqKqq4k9iQYROdPSEXHxCp2qAjJmB35FkEik23ed4OVzZZOJ1qh0aNWI9ARfiUBAZqNeWRDveLQ0Unm/xirvlEd",
   "signature_algorithm": "RSA-SHA256-PKCS1",
   "notes": [
-    "VOD ve D\u0130Z\u0130 Eklentisi Eklenmi\u015Ftir."
+    "VOD film ar\u015Fivi ve sezon/b\u00F6l\u00FCm destekli D\u0130Z\u0130LER sekmesi eklendi."
   ]
 }
