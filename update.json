@@ -1,15 +1,15 @@
 {
   "program": "IPTVKontrolMerkezi",
-  "version": "0.13.5",
-  "build": "20260722.2251",
+  "version": "0.13.9",
+  "build": "20260723.1852",
   "release_date": "2026-07-23",
   "mandatory": false,
-  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.5/IPTVKontrolMerkezi-0.13.5-win-x64.zip",
-  "package_size": 226384006,
-  "sha256": "b4f8232c7b937dff5de50607ca820363e719b9f34fc2e89a130aa93b1e76f005",
-  "signature": "KIX90qpXtAwVBBi5Mh0z3m4dMFYqHKrVS3Tybv3Sx/sUadrcoosSED1VkZwfy0Mbqm5CYmKs45WkQ74arbXNJElAODm32lH6dzLqfrKji286j/mzjwC6hjgNgQZHS3iMY4oH\u002BkIZwjgphX9yYwdsAORGgRkc7xuoi37aZn\u002BOY4aEy3IkHidB8VpxBRgeyxK3vj0OuridVprZP180LPKtcS0CfbSXzgYESP0kZGOQ6eEtgIFA5TI6tPliSD/zXK91SPCZ\u002BNA/srptcd/lQqPfYlRz1x4yEfPTShOhwfYO/txESzg6vCcq9pb6cuTZWvuEPWMVnO0CCJ95Ok0NnCtPPzr\u002BGIENh\u002BKzkhNGxh2wmkb3QuOBuHr\u002B\u002B0pp9pzfo9FVwssTioAMTmSocZk5AJ/5bUFkTX/unWVo23xJlLISfnvEf7iDXAoIlok7AEkynKIzNyRC2l2K4e1ZpPzGpDLr6416TVUuaefcBgWhizVXI9dUfG7BhkyhrzdRBU/ze2A/",
+  "package_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES-NEW/releases/download/v0.13.9/IPTVKontrolMerkezi-0.13.9-win-x64.zip",
+  "package_size": 189340932,
+  "sha256": "17eb7b635ae7c87a539bb6e612bdaa2ce1f15701e45074087dc3481f3f7bc793",
+  "signature": "Qruee37pkoUCFHrudy/YlQwwjZulYr0n0Qw/AmC7HJ14NPfCvgavlA0e6oz64yEa83lCGVJN\u002BQAU5uU731g\u002BMt8p\u002B8zFUsZEmUGDKkn9eQGyp\u002BiJCsncxJQWgpmubbt5qk2S1gIZO4qI9IBok//cRUeRGY1GgeKeT9lBY6Gnm1q05Gg9z4gSx7xvw9tT\u002Bpfg5yWICASjU2eGJJhltHmJiQZP7akYlUUD7Ao7QGA57N24YHhJeAvFTVJHJQ0gL56bg2EyH3wzAOIrUubT5ice6dyV6zaTsXzH/gbRxlbwYE/LaSaZP54F4Zxj87fBAvFmMGE/2M6xxn27m0qDwRpqoXFF93NfLJbx/zUgLwyT7XujtP1R28NORmAKCIVqxJdwhYKUpHQBIF9FPZFY0d71CZCDFDcPBPSUlGnKSSe0ugYivP8nPD\u002BxabWpyqoh9l8BoDWQ3vDnLR\u002BW4eJgR/cjwcXvej218VZSSJgNvxJlTdf9iJEi5mijqgrSxPCedbOe",
   "signature_algorithm": "RSA-SHA256-PKCS1",
   "notes": [
-    "Kararl\u0131l\u0131k ve g\u00FCvenlik iyile\u015Ftirmeleri."
+    "VOD ve D\u0130Z\u0130 Eklentisi Eklenmi\u015Ftir."
   ]
 }
